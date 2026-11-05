@@ -543,7 +543,7 @@ ul.row {
 .social-link{
   display: block;
 }
-.social-link svg path {
+.social-link > svg{
   fill: var(--text-color);
 }
 
